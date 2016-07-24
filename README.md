@@ -1,9 +1,7 @@
 # blink
 blink is a funny library, use for simulation of typing effect
 
-```
 ![image](https://github.com/cliens/blink/blob/master/blinkExapmle.gif )
-```
 
 ## Introduction
 ```
@@ -38,5 +36,5 @@ blink is a funny library, use for simulation of typing effect
 
 ```
 
-###
+### License
 MIT. © 2016 cliens
