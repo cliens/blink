@@ -13,7 +13,7 @@ blink is a funny library, use for simulation of typing effect
 
 ## usage
 
-```
+```js
     blink({auto: true})
             .type('This is a example of blink.you are typing……')
             .delay(3000)
@@ -38,4 +38,4 @@ blink is a funny library, use for simulation of typing effect
 ```
 
 ### License
-MIT. © 2016 cliens
+MIT. @copyright 2016 cliens
