@@ -7,7 +7,8 @@ blink is a funny library, use for simulation of typing effect
 ```
  blink is a funny library, use for simulation of typing effect.
  Now, you can showing a typing effect using the method of it.
- And in the future, we will add the function what you can use it to record your type, and then show it in you site.
+ And in the future, we will add the function what you can use it to record your type,
+ and then show it in you site.
 ```
 
 ## usage
